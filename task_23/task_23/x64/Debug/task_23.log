@@ -1,0 +1,3 @@
+﻿  task_23.cpp
+C:\Users\igush\IdeaProjects\yandex-train-3.0\task_23\task_23\task_23.cpp(59,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  task_23.vcxproj -> C:\Users\igush\IdeaProjects\yandex-train-3.0\task_23\x64\Debug\task_23.exe
